@@ -1,0 +1,16 @@
+3 3
+2 1 -2
+1 1 -2
+-1 0 1
+swap 0 1
+mult 0 2
+sub 1 -1
+add 2 0
+add 2 1
+mult 2 2
+sub 1 -1
+mult 2 2
+add 0 -1
+add 0 1
+mult 1 2
+sub 1 -1
